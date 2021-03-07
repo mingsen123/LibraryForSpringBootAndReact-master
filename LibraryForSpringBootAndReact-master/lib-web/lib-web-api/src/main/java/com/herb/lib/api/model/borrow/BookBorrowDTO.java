@@ -1,14 +1,15 @@
 package com.herb.lib.api.model.borrow;
 
 import com.herb.lib.api.model.BaseDTO;
+import lombok.Data;
 
 import java.math.BigDecimal;
 import java.util.Date;
 
 /**
  * 借书实体类
-
  */
+@Data
 public class BookBorrowDTO extends BaseDTO {
 
     /**
@@ -47,12 +48,12 @@ public class BookBorrowDTO extends BaseDTO {
     private Date endDate;
 
     /**
-     * 书籍价格
+     * 借书费用
      */
     private BigDecimal price;
 
     /**
-     * 租借价格
+     * 借书实际费用
      */
     private BigDecimal tradeFee;
 

@@ -44,7 +44,19 @@
     </insert>
 
     <update id="update">
-        UPDATE book set book_name=#{bookName} where id=#{id}
+        UPDATE book
+        <set>
+            <if test="bookName != null">
+                book_name=#{bookName},
+            </if>
+            <if test="updateDate != null">
+                update_date=#{updateDate},
+            </if>
+            <if test="bookCount != null">
+                book_count=#{bookCount},
+            </if>
+        </set>
+        where id=#{id}
     </update>
 
     <delete id="delete">
