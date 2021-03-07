@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45c72e3d-8a41-4755-8796-8e6ce06136b5" name="Default Changelist" comment="feet dev分支与借书核心代码的创建" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="20210307" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:\BaiduNetdiskDownload\maven\maven\apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="F:\BaiduNetdiskDownload\maven\maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8 (3)" />
+  </component>
+  <component name="ProjectId" id="1p4P9ctNBqqqk4lR4TohWU3BP5Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wluser\Desktop\LibraryForSpringBootAndReact-master\LibraryForSpringBootAndReact-master\lib-web\lib-web-dao\src\main\resources\mapper\book" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="start" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.herb.lib.LibWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45c72e3d-8a41-4755-8796-8e6ce06136b5" name="Default Changelist" comment="" />
+      <created>1614439239069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614439239069</updated>
+      <workItem from="1614439251145" duration="510000" />
+      <workItem from="1614439880524" duration="684000" />
+      <workItem from="1614440650042" duration="3697000" />
+      <workItem from="1614445201975" duration="6088000" />
+      <workItem from="1614486808248" duration="4401000" />
+      <workItem from="1614523600244" duration="1897000" />
+      <workItem from="1614602553703" duration="11689000" />
+      <workItem from="1614614426265" duration="288000" />
+      <workItem from="1614686473290" duration="707000" />
+      <workItem from="1614688348383" duration="973000" />
+      <workItem from="1614689370035" duration="857000" />
+      <workItem from="1614690477365" duration="3109000" />
+      <workItem from="1614774235084" duration="357000" />
+      <workItem from="1614774844194" duration="852000" />
+      <workItem from="1614862332583" duration="723000" />
+      <workItem from="1614863110564" duration="73000" />
+      <workItem from="1614863544093" duration="2221000" />
+      <workItem from="1614865820256" duration="334000" />
+      <workItem from="1615010252778" duration="14598000" />
+      <workItem from="1615099851506" duration="1021000" />
+      <workItem from="1615101132417" duration="3998000" />
+      <workItem from="1615105210630" duration="85000" />
+      <workItem from="1615105311165" duration="323000" />
+    </task>
+    <task id="LOCAL-00001" summary="feet dev分支与book相关文件的创建">
+      <created>1614863962856</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614863962856</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feet dev分支与borrow相关文件的创建">
+      <created>1614865712249</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614865712249</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feet dev分支与借书核心代码的创建">
+      <created>1615104344653</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615104344653</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feet dev分支与book相关文件的创建" />
+    <MESSAGE value="feet dev分支与borrow相关文件的创建" />
+    <MESSAGE value="feet dev分支与借书核心代码的创建" />
+    <option name="LAST_COMMIT_MESSAGE" value="feet dev分支与借书核心代码的创建" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lib_web$LibWebApplication.ic" NAME="LibWebApplication Coverage Results" MODIFIED="1615101322319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
