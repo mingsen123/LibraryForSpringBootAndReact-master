@@ -3,6 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/LibraryForSpringBootAndReact-master.iml" filepath="$PROJECT_DIR$/.idea/LibraryForSpringBootAndReact-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-web/lib-web.iml" filepath="$PROJECT_DIR$/lib-web/lib-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-web/lib-web-api/lib-web-api.iml" filepath="$PROJECT_DIR$/lib-web/lib-web-api/lib-web-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-web/lib-web-dao/lib-web-dao.iml" filepath="$PROJECT_DIR$/lib-web/lib-web-dao/lib-web-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-web/lib-web-manager/lib-web-manager.iml" filepath="$PROJECT_DIR$/lib-web/lib-web-manager/lib-web-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-web/lib-web-service/lib-web-service.iml" filepath="$PROJECT_DIR$/lib-web/lib-web-service/lib-web-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-web/lib-web-web/lib-web-web.iml" filepath="$PROJECT_DIR$/lib-web/lib-web-web/lib-web-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-web/start/start.iml" filepath="$PROJECT_DIR$/lib-web/start/start.iml" />
     </modules>
   </component>
 </project>
